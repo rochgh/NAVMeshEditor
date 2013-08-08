@@ -1,4 +1,4 @@
 NAVMeshEditor
 =============
 
-A air tool to create NAV Mesh Data
+An air tool to create NAV Mesh Data
